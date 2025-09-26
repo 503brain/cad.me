@@ -1,16 +1,16 @@
 CAD.ME is a open-source Python register system. This software allows you to register people over your choice, like name, CPF, birthday, etc. 
 
-## Login
-
-| User   | Pass   |
-| ------ |:------:|
-| admin  | admin  |
-
 ## Use 
 
 ```
 python3 cadme.py
 ```
+
+## Login
+
+| User   | Pass   |
+| ------ |:------:|
+| admin  | admin  |
 
 ## Login and main screen pics
 
